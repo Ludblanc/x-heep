@@ -1,14 +1,6 @@
 #!/usr/bin/env zsh
-# author: Ludovic Blanc 
-# ludovic.blanc@epfl.ch
-# TCL EPFL 2026
+# X-HEEP contributors 2026
 # Usage: ./util/install_tools_and_conda_env.zsh
-
-# to undo:
-# rm -rf tools
-# conda remove --name core-v-mini-mcu --all
-# macOS: brew uninstall <packages>
-# Linux: sudo apt-get remove <packages>
 
 # --- Output Helpers ---
 BOLD="\033[1m"

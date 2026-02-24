@@ -1,7 +1,5 @@
 #!/usr/bin/env zsh
-# author: Ludovic Blanc 
-# ludovic.blanc@epfl.ch
-# TCL EPFL 2026
+# X-HEEP contributors 2026
 # Usage: source util/start_env.zsh
 
 # --- 1. Environment Detection ---
